@@ -1,0 +1,29 @@
+body {
+  background-image: url(background.jpg)
+  
+}
+p {
+  color: cornsilk;
+}
+h1 {
+  font-weight: bold;
+  color: cornsilk;
+}
+h4 {
+  color: cornsilk;
+}
+
+li{
+  color: cornsilk;
+  
+}
+h3 {color: cornsilk;}
+
+img {
+  border-radius: 20px;
+  width: 15%;
+  border-color: cornsilk;
+  border-width: 5px;
+  border-style: solid;
+}
+
