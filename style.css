@@ -1,9 +1,9 @@
 body {
-  background-color: rgb(249, 247, 247);
+  background-color: rgb(17, 45, 78);
      }
 
 p {
-  color: rgb(17, 45, 78);
+  color: rgb(249, 247, 247);
   text-align: center;
   font-size: 200%;
   font-family:monospace;
@@ -20,28 +20,28 @@ h2 {color:rgb(63, 114, 175);
   text-decoration: underline;
 }
 p1 {
-  color: rgb(17, 45, 78);
+  color: rgb(249, 247, 247);
   text-align: center;
   font-size: 200%;
   font-family:monospace;
   }
 
 li {
-  color: rgb(17, 45, 78);
+  color: rgb(249, 247, 247);
   font-size: 200%;
   font-family:monospace;
 
 
 }
 h3 {
-color: rgb(17, 45, 78);
+color: rgb(249, 247, 247);
   font-size: 150%;
   font-family:monospace;
   text-decoration: underline;
 
 }
 p2 {
-  color: rgb(17, 45, 78);
+  color: rgb(249, 247, 247);
   font-size: 150%;
   font-family:monospace;
 
