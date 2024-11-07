@@ -47,13 +47,12 @@ p2 {
   color: rgb(249, 247, 247);
   font-size: 150%;
   font-family:monospace;
+
+}
+.car {
   
 
 
-.drift {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100%;
-}
+
+  
   
