@@ -58,8 +58,10 @@ p2 {
   
 }
 .carimg {
-  width: 50%;
-  height: 50%;
+  width:50%;
+  border-style:solid;
+  border-color:rgb(255, 255, 255);
+  border-radius: 20px;
 }
 
 
