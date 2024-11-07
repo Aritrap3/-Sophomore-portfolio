@@ -50,15 +50,10 @@ p2 {
   
 
 
-}
 .drift {
-  width:50%;
-  margin: 1px;
-  border-color: rgb(241, 239, 153);
-  border-width: 5px;
-  border-style: double;
-  border-radius: 20px;
-  align-self: center;
-}
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
 <
   
