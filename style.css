@@ -50,6 +50,11 @@ p2 {
 
 }
 .car {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  border-radius:20px;
+}
   
 
 
