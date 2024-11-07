@@ -54,6 +54,8 @@ p2 {
   flex-wrap: wrap;
   justify-content: center;
   border-radius:20px;
+  width: 50%;
+  height: 50%;
 }
   
 
