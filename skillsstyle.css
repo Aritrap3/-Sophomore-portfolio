@@ -63,8 +63,20 @@ p2 {
   border-color:rgb(255, 255, 255);
   border-radius: 20px;
 }
+.list {
+  background-color: rgb(17, 45, 78);
+  color: rgb(249, 247, 247);
+  font-size: 150%;
+  font-family:monospace;
+}
 
 
+
+
+
+
+
+  
 ul {
   list-style-type: none;
   margin: 0;
@@ -115,10 +127,3 @@ li.dropdown {
 .dropdown:hover .dropdown-content {
   display: block;
 }
-.list {
-  background-color: rgb(17, 45, 78);
-  color: rgb(249, 247, 247);
-  font-size: 150%;
-  font-family:monospace;
-}
-  
