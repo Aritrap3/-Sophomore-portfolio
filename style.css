@@ -63,7 +63,7 @@ p2 {
   border-color:rgb(255, 255, 255);
   border-radius: 20px;
 }
-body {margin:0;}
+
 
 ul {
   list-style-type: none;
@@ -95,9 +95,7 @@ li a:hover:not(.active) {
 .active {
   background-color: #04AA6D;
 }
-</style>
-</head>
-<body>
+
 
 
 
