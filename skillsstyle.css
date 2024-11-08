@@ -115,3 +115,8 @@ li.dropdown {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+.one_car { 
+  color: rgb(249, 247, 247);
+  font-size: 200%;
+  font-family:monospace;}
