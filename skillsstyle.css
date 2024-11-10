@@ -64,13 +64,12 @@ p2 {
   border-radius: 20px;
 }
 .list {
+  .list {
   list-style-type: disc;
   color: rgb(249, 247, 247);
   font-family: monospace;
   padding-left: 20px;
   background-color: rgb(17, 45, 78);
-  display: flex; 
-  flex-wrap: wrap;
 }
   
 ul {
