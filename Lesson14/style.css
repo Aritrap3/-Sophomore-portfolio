@@ -52,6 +52,12 @@
 
 /* layout style for supporting cast images */
 .cast{
+display:flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: space-around;
+align-content: center;
+width: 500px;
   
 }
 
