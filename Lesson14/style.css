@@ -40,24 +40,32 @@
 
 /* layout style for protagonist image and information*/
 .controlprotagonist{
-  
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: baseline;
+      
 }
 
 
 /* protagonist image style */
 .protagonist{
+  float:left;
+  width:600px;
+  margin:25px;
   
 }
 
 
 /* layout style for supporting cast images */
 .cast{
-display:flex;
-flex-direction: row;
-flex-wrap: wrap;
-justify-content: space-around;
-align-content: center;
-width: 500px;
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  width: 500px;
   
 }
 
