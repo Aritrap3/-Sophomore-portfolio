@@ -3,11 +3,16 @@
 /* layout for comic book cover image gallery */
 
 .cover {
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
   
 }
 
 /* comic book cover image style */
 .coverstyle{
+  width: 150px;
   
 }
 
@@ -15,6 +20,7 @@
 /* comic book citation style */
 
 .citation{
+  
   
 }
 
