@@ -116,3 +116,21 @@ li.dropdown {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+.thomas:link{
+  color:rgb(249, 247, 247);
+  font-family:monospace;
+}
+.thomas:visited{
+  color:rgb(249, 247, 247);
+  font-family:monospace;
+}
+.thomas:hover{
+  color:rgb(241, 239, 153);
+  font-family:monospace;
+}
+.thomas:active{
+  color:red;
+  font-family:monospace;
+}
+  
