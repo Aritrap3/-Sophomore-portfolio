@@ -7,13 +7,13 @@
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-evenly;
-  
+
 }
 
 /* comic book cover image style */
 .coverstyle{
   width: 150px;
-  
+
 }
 
 
@@ -22,8 +22,8 @@
 .citation{
   text-align:center;
   font-size: 10px;
-  
-  
+
+
 }
 
 /* storytelling flowchart image style */
@@ -31,88 +31,110 @@
   width:300px;
   margin: 10px;
   float: right;
-  
-  
 
-  
+
+
+
 }
 
 
 /* layout style for protagonist image and information*/
 .controlprotagonist{
-  display:flex;
+  display: flex;
   flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  align-items: baseline;
-      
+  align-content: center;
+  justify-content:space-around;
 }
 
 
 /* protagonist image style */
 .protagonist{
-  width:600px;
+  width: 600px;
   margin:25px;
-  
+
 }
 
 
 /* layout style for supporting cast images */
 .cast{
-  display:flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-around;
-  align-items: center;
-  width: 500px;
-  
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: space-around;
 }
 
 /* supporting cast image style */
 .caststyle{
-  
+  width:500px;
+
 }
 
 
 /* layout for planning comic pages images and information */
 .controlillustrate{
-  
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
 }
 
 /* layout for image and information within planning container */
 .panelyinfo{
+  display: flex;
+  flex-direction: column-reverse;
+    
+  
+
+}
+
+.controlprespective{
+  display: flex;
+  flex-direction: column-reverse;
   
 }
 
 
 /* comic panels image style */
 .comicpanelsstyle{
-  
+width:600px;
 }
 
 
 /* perspective image style */
 .prespectiveimagestyle{
-  
+  width:600px;
 }
 
 
 /* layout style for publishing option images */
 .controlpublish{
-  
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-content: center;
 }
-
+.controlp{
+  width:500px;
+}
 
 
 /* layout style for image citation */
 .citationtwo{
-  
+display: flex;
+flex-direction: row;
+
 }
 
 
 /* style for paragraph in image citation container */
 .citationtwostyle{
-  
+font-size: 10px;
+font-style: italic;
+text-align: center;
+justify-content: flex-start;
+align-items: flex-end;
 }
 
 
@@ -150,7 +172,12 @@ h3 {
 
 /* general image style  */
 img {
-  width: 300px;
+  
   border-style: solid;
   border-color: #F4A261;
   box-shadow: 2px 2px;
+}
+p { text-align: center
+  
+  
+}
