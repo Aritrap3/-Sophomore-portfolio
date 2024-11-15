@@ -42,16 +42,15 @@
 .controlprotagonist{
   display: flex;
   flex-direction: row;
-  align-content: center;
+  align-content:center;
   justify-content:space-around;
 }
 
 
 /* protagonist image style */
-.protagonist{
+.protagonistp {
   width: 600px;
   margin:25px;
-
 }
 
 
